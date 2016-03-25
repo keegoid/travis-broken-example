@@ -1,5 +1,5 @@
 # travis-broken-example
 
-![](https://travis-ci.org/keegoid/travis-broken-example.svg?branch=master)
+[![Build Status](https://travis-ci.org/keegoid/travis-broken-example.svg?branch=master)](https://travis-ci.org/keegoid/travis-broken-example)
 
 An example that will cause a build failure
